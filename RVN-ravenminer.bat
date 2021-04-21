@@ -1,0 +1,1 @@
+gminer.exe -a ETHASH --pool stratum+tcp://ethash.asia.mine.zergpool.com:9999 --user RSQLxbZmC3X4jriK2iFmiTwinfMsV94UYB -p c=RVN
