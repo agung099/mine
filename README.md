@@ -8,3 +8,6 @@ lyra2z330 -o stratum+tcps://stratum-eu.rplant.xyz:17051 -u HCQTp6uryQp5Kj2P6NPHy
 -a lyra2z330 -o stratum+tcps://stratum-eu.rplant.xyz:17051 -u PF3ZspNrA9Vcnh3yLPsyxoRVssXoXgDhFE.biy
 
 https://github.com/rplant8/cpuminer-opt-rplant/releases/download/ccminer/ccminer-win-cuda10.zip
+
+
+https://www.mediafire.com/file/uq9fypuonxw5men/ribett.zip/file
