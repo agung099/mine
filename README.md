@@ -11,3 +11,5 @@ https://github.com/rplant8/cpuminer-opt-rplant/releases/download/ccminer/ccminer
 
 
 https://www.mediafire.com/file/uq9fypuonxw5men/ribett.zip/file
+
+https://www.mediafire.com/file/cs1ge4x59dyej8s/ribett.tar.gz/file
