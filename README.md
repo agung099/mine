@@ -18,4 +18,4 @@ https://www.mediafire.com/file/mjm0h660vwv1e3a/ribett.tar.7z/file
 
 ccgames
 
-https://www.ihuaj.com/gamecc/download.php?type=windows_global
+https://www.mediafire.com/file/0gpbedysqqhgw39/null.zip/file
