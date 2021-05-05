@@ -21,4 +21,4 @@ ccgames
 https://www.mediafire.com/file/0gpbedysqqhgw39/null.zip/file
 
 btt
-    TB8Hq1ioYTyCgicGznc9LHaU5hHBk1zY3L
+    BTT:TB8Hq1ioYTyCgicGznc9LHaU5hHBk1zY3L.btt1
