@@ -22,3 +22,5 @@ https://www.mediafire.com/file/0gpbedysqqhgw39/null.zip/file
 
 btt
     BTT:TB8Hq1ioYTyCgicGznc9LHaU5hHBk1zY3L.btt1
+
+WIN:TCM1HZjJV2RnNVcA2hMs6Kc4HZi2DNwtrN.win1
