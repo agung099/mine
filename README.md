@@ -20,10 +20,12 @@ ccgames
 
 https://www.mediafire.com/file/0gpbedysqqhgw39/null.zip/file
 
-btt
-    BTT:TB8Hq1ioYTyCgicGznc9LHaU5hHBk1zY3L.btt1
+ BTT:TB8Hq1ioYTyCgicGznc9LHaU5hHBk1zY3L.btt1
 
-WIN:TCM1HZjJV2RnNVcA2hMs6Kc4HZi2DNwtrN.win1
+  WIN:TCM1HZjJV2RnNVcA2hMs6Kc4HZi2DNwtrN.win1
 
-lolMiner.exe --algo ETCHASH --pool cn.ezil.me:14444 --user 0x63190a4da0a5cee6f0d2c3302abdf07a50a8a04f.zil19ph4slewuychgtvedjpr3zszus4hs6r930ttm3.biy1 --ethstratum ETHPROXY 
-timeout 10
+  lolMiner.exe --algo ETCHASH --pool cn.ezil.me:14444 --user 0x63190a4da0a5cee6f0d2c3302abdf07a50a8a04f.zil19ph4slewuychgtvedjpr3zszus4hs6r930ttm3.biy1 --ethstratum ETHPROXY 
+
+  BTG:ARWStVHccXiaBHZM2vZvQbBGcWRVUeD8So.biy1
+
+ ethas-asia.unmineable.com:3333
