@@ -18,3 +18,5 @@ https://github.com/rplant8/cpuminer-opt-rplant/releases/download/ccminer/ccminer
  ethash-asia.unmineable.com:3333
 
   SHIB:0x2578207b2a2Dd9FD0143bd9B91333815B5960180.Biyy
+
+ MATIC:0x0b8e0314e95fda2702652e59da7395da5e0dd597.biyy
