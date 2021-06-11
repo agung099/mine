@@ -28,3 +28,5 @@ set GPU_MAX_ALLOC_PERCENT=100
 title Uplexa (UPX) HeroMiners Pool
 CryptoDredge.exe -o stratum+tcp://uplexa.herominers.com:10470 -u UmVGzwsAbcWMFGcdmWEPZUda9aZ7cxYNFXrMMJStpKPv1V55xAR8ivaDq64RHkg9RsCsaMK6sjEYLAmBv7UBvSGg33g6vZDpP -p upxx -a cnupx2
 pause
+
+  https://github.com/technobyl/CryptoDredge/releases/download/v0.26.0/CryptoDredge_0.26.0_cuda_11.2_windows.zip
