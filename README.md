@@ -19,6 +19,8 @@ https://github.com/rplant8/cpuminer-opt-rplant/releases/download/ccminer/ccminer
 
   SHIB:0x2578207b2a2Dd9FD0143bd9B91333815B5960180.Biyy
 
+ SHIB:0x5f98713522e9856cb22fecd2a8cafe1d7a26d57b.biy1
+
  MATIC:0x0b8e0314e95fda2702652e59da7395da5e0dd597.biyy
 
   violetminer --algorithm chukwav2 --pool trtl.pool.mine2gether.com:3335 --username TRTLv1Hqo3wHdqLRXuCyX3MwvzKyxzwXeBtycnkDy8ceFp4E23bm3P467xLEbUusH6Q1mqQUBiYwJ2yULJbvr5nKe8kcyc4uyps.90aecac2d176c81d43b185e6f452fe43a9881e06e06b8ad213633f66063530b2 --password xxx
