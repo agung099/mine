@@ -1,4 +1,4 @@
-
+RLKK9UVBSmU3D22LvQXfW83zA5ZRfwEFoh
 pool.rplant.xyz
 
 lyra2z330 -o stratum+tcps://stratum-eu.rplant.xyz:17051 -u HCQTp6uryQp5Kj2P6NPHy8fhzWUPX5sEqa.v1
